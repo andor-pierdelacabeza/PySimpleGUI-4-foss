@@ -1,20 +1,28 @@
+> [!IMPORTANT]
+> THIS IS THE LAST GPL VERSION OF PySimpleGUI
+>
+> PySimpleGUI [has moved](https://docs.pysimplegui.com/en/latest/readme/sunset/) from GPLv3
+> to a [custom license](https://github.com/PySimpleGUI/PySimpleGUI/blob/master/LICENSE.txt)
+> with a subscription model (fine with me) but has deleted all its previous GPL code, making
+> it dissapear from the repository.
+>
+> I'm perfectly fine with looking for an appropiate funding model (and their subscription
+> plans look simple and cheap), but I thing that removing all the GPL code from existence,
+> even doing a force-push to the repository, is a petty move that really undermines the
+> confidence in them.
+>
+> Also, it could leave hanging some users that were pending updates or medifications.
+>
+> Thanks to some users in HN, I've pulled the repo up to what seems to be the last GPL commit
+> and created this mirror. Do whatever you need with it.
+>
+> Unless there's much traction (and I have time) I won't accept modifications (or do
+> them myself). Feel free to fork and use your GPLv3 rights and liberties.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png" alt="User Interfaces for Humans">
   <h2 align="center">User Interfaces for Humans<sup>TM</sup></h2>
 </p>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://www.dropbox.com/s/6wzf3ebmj97v4zs/PySimpleGUI-GitHub-Udemy-Course.png?raw=1" width=200 alt="PySimpleGUI Udemy Course">
-    </td>
-    <td>
-      <h5>apply coupon for discount:<br>522B20BF5EF123C4AB30</h6>
-      <a href="https://www.udemy.com/course/pysimplegui/?couponCode=522B20BF5EF123C4AB30">click here to visit course page</a>
-    </td>
-  </tr>
-</table>
-
 
 
 Transforms the tkinter, Qt, WxPython, and Remi (browser-based) GUI frameworks into a simpler interface.  The window definition is simplified by using Python core data types understood by beginners (lists and dictionaries). Further simplification happens by changing event handling from a callback-based model to a message passing one.  
@@ -823,32 +831,6 @@ In addition to requesting information such as the version numbers of PySimpleGUI
 
 ***Please fill in the form.***  It may feel pointless to you.  It may feel painful, despite it taking just a moment.  It helps get you a solution faster.  If it wasn't useful and necessary information to help you get a speedy reply and fix, you wouldn't be asked to fill it out.  "Help me help you".
 
-
-# Supporting 	<a href="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/PSGSuperHero.png"><img src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/PSGSuperHero.png"  alt="img"  width="90px"></a>
-
-Financial support for the project is greatly appreciated.  To be honest, financial help is needed.  It's expensive just keeping the lights on.  The domain name registrations, a long list of subscriptions for things like Trinket, consulting help, etc., quickly add up to a sizable recurring cost.  
-
-PySimpleGUI wasn't inexpensive to create. While a labor of love, it was very laborious over several years, and quite a bit was invested, and continues to be invested, in creating what you see today.
-
-PySimpleGUI has an open-source license and it would be great if it could remain that way.  If you or your company (especially if you're using PySimpleGUI in a company) are benefiting financially by using PySimpleGUI, you have the capability of extending the life of the project for you and other users.
-
-### Buy Me A Coffee
-
-Buy Me a Coffee is a great way to publicly support developers.  It's quick, easy, and your contribution is recorded so that others can see that you're a supporter of PySimpleGUI.  You can also choose to make your donation private.
-
-<a href="https://www.buymeacoffee.com/PySimpleGUI" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" ></a>
-
-
-
-### GitHub Sponsoring
-
-
-
-<a href="https://github.com/sponsors/PySimpleGUI" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
-
-The [GitHub recurring sponsorship](https://github.com/sponsors/PySimpleGUI) is how you can sponsor the project at varying levels of support on an ongoing basis.  It's how many Open Source developers are able to receive corporate level sponsorship.
-
-Your help in financially contributing to the project would be greatly appreciated. Being an Open Source developer is financially challenging.  YouTube video creators are able to make a living creating videos.  It's not so easy yet for Open Source developers.
 
 
 # Thank you for the Thank You's
