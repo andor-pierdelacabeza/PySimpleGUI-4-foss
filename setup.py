@@ -4,7 +4,7 @@ def readme():
     try:
         with open('README.md') as f:
             return f.read()
-    except IOError:
+    except (IOError, UnicodeDecodeError):
         return ''
 
 
