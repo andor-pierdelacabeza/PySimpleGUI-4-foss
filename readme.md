@@ -1,3 +1,8 @@
+
+
+> [!NOTE]
+> If you are looking for a maintained fork of PySimpleGUI see https://github.com/spyoungtech/FreeSimpleGUI
+
 > [!IMPORTANT]
 > THIS IS THE LAST GPL VERSION OF PySimpleGUI
 >
